@@ -1,7 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
 # HackTheBox_writeup
 
 http://github.com - automatic!
